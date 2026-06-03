@@ -4,3 +4,4 @@ streamlit
 numpy
 scikit-learn
 xgboost
+plotly == 6.7.0
