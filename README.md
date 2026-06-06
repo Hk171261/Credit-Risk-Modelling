@@ -243,6 +243,3 @@ Examples:
 
 ---
 
-## 👨‍💻 Author
-
-**Himanshu K**
